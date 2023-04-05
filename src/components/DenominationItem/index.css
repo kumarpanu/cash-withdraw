@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.list-container {
+  list-style: none;
+  margin-right: 10px;
+}
+
+.button-styling {
+  background-color: #585076;
+  font-family: 'Roboto';
+  font-size: 18px;
+  padding: 5px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  width: 170px;
+  height: 40px;
+  margin-bottom: 10px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
